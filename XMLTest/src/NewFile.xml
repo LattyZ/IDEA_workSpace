@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teaching-plan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="NewXMLSchema.xsd">
+	<course id="大学英语">
+		<course-name>大学英语</course-name>
+		<class-hour>36</class-hour>
+		<exam-form>考试</exam-form>
+	</course>
+	<course id="高等数学" >
+		<course-name>高等数学</course-name>
+		<class-hour>110</class-hour>
+		<exam-form>考试</exam-form>
+	</course>
+	<course id="计算机应用基础">
+		<course-name>计算机应用基础</course-name>
+		<class-hour>108</class-hour>
+		<exam-form>上机考试</exam-form>
+	</course>
+
+</teaching-plan>
